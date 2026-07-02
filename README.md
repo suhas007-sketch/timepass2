@@ -1,3 +1,3 @@
 # new project
 
-this is creted locally 
+this is creted locally.
